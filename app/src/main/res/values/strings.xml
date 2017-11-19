@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Film Manager </string>
+    <string name="data_rilascio">Data rilascio:</string>
+    <string name="anno">Anno:</string>
+    <string name="titolo">Titolo:</string>
+    <string name="genere">Genere:</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="ok">OK</string>
+    <string name="domain">Domain:</string>
+    <string name="_192_168_1_1">192.168.1.1</string>
+    <string name="title">Title:</string>
+    <string name="category">Category:</string>
+    <string name="year">Year:</string>
+    <string name="released">Released:</string>
+    <string name="director">Director:</string>
+    <string name="imdbrating">Imdb Rating:</string>
+    <string name="Actors">Actors:</string>
+    <string name="plot">Plot:</string>
+    <string name="local_folder">Local Folder</string>
+    <string name="search_film_online">Search film online</string>
+    <string name="seearch">Search!</string>
+    <string name="awards">Awards:</string>
+    <string name="internal_error"></string>
+    <string name="language">Language:</string>
+    <string name="adult">Adult:</string>
+    <string name="m1">Answer to life the universe and everything 42</string>
+    <string name="chromecast">Chromecast</string>
+    <string name="description">Description:</string>
+    <string name="m2">ho più magia io nel mio dito mignolo</string>
+    <string name="search">search...</string>
+    <string name="TITLE">TITLE:</string>
+    <string name="alphabetical">Order in alphabetical order</string>
+</resources>

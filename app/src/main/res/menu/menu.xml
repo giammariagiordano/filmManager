@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".graphic.ShowFilm"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/donwload"
+        android:icon="@drawable/download"
+        android:title="@string/m1"
+        app:showAsAction="always"
+        android:onClick="download"
+        />
+
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/yt"
+        android:title="@string/m2"
+        app:showAsAction="ifRoom"
+        android:onClick="trailerOnclick"
+        />
+
+    <item android:id="@+id/share"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="ifRoom"
+        android:onClick="shareInfo"
+        android:title="">
+    </item>
+
+</menu>
+
+

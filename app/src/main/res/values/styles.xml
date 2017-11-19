@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="@style/Theme.AppCompat">
+
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:colorBackground">@color/colorPrimary</item>
+    </style>
+
+</resources>
